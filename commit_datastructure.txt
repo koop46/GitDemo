@@ -1,0 +1,4 @@
+"commit message best practices"
+- som ett mail
+- emfatisk disposition
+- 
