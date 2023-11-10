@@ -1,5 +1,6 @@
 working tree, där alla filer är 
--> staging area 
--> local repository, lokala mappen 
--> remote repository, github
+
+gitt add -> staging area 
+git commit -> local repository, lokala mappen 
+git push -> remote repository, github
 
