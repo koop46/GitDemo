@@ -1,0 +1,5 @@
+working tree, där alla filer är 
+-> staging area 
+-> local repository, lokala mappen 
+-> remote repository, github
+
